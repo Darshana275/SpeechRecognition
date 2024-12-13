@@ -56,13 +56,13 @@ To run the project
 
 Results
 
-Split Ratio      Accuracy (%) (Average of 10 Evaluations)
+Split Ratio -> Accuracy (%) (Average of 10 Evaluations)
 
-70:30                   79.63%
+70:30 -> 79.63%
 
-80:20                   79.05%
+80:20 -> 79.05%
 
-90:10                   79.85%
+90:10 -> 79.85%
 
 70:30 Split: Achieved the highest average accuracy of 79.63%, indicating a balanced dataset size for training and testing.
 
