@@ -18,6 +18,7 @@ Performance Metrics: Accuracy (%) was used as the primary metric, measured as th
 To run the project
 1. Clone the repository:
    "git clone https://github.com/Darshana275/Split-Ratio-Impact-on-HMMs_SpeechRecognitionModel"
+   
    "cd hmm7030 or cd hmm8020 or cd hmm9010"  (based on the train-test split ratio you want to work on)
    
 3. Install the dependencies
